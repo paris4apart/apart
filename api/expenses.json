@@ -1,0 +1,759 @@
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/061.jpg"
+            ],
+            "amount": 90
+        },
+        "date": {
+            "day": 20,
+            "month": "Ağustos",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/060.jpg"
+            ],
+            "amount": 105
+        },
+        "date": {
+            "day": 3,
+            "month": "Ağustos",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/059.jpg"
+            ],
+            "amount": 3436
+        },
+        "date": {
+            "day": 10,
+            "month": "Temmuz",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/058.jpg"
+            ],
+            "amount": 100
+        },
+        "date": {
+            "day": 3,
+            "month": "Temmuz",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/057.jpg"
+            ],
+            "amount": 115
+        },
+        "date": {
+            "day": 3,
+            "month": "Haziran",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "1,9 ve 12 numaralı daireler hariç, geriye kalan 12 daireden 108'er TL olmak üzere toplamda 1.296 TL toplandı.",
+            "total": 1296
+        },
+        "date": {
+            "day": 3,
+            "month": "Haziran",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/056.jpg"
+            ],
+            "amount": 7490
+        },
+        "date": {
+            "day": 21,
+            "month": "Mayıs",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/054.jpg",
+                "https://paris4.online/images/055.jpg"
+            ],
+            "amount": 746
+        },
+        "date": {
+            "day": 3,
+            "month": "Mayıs",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 ve 12 numaralı daireler hariç, geriye kalan 13 daireden 280'er TL olmak üzere toplamda 3.640 TL toplandı.",
+            "total": 3640
+        },
+        "date": {
+            "day": 3,
+            "month": "Mayıs",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/053.jpg"
+            ],
+            "amount": 600
+        },
+        "date": {
+            "day": 12,
+            "month": "Nisan",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/052.jpg"
+            ],
+            "amount": 8027
+        },
+        "date": {
+            "day": 8,
+            "month": "Nisan",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 numaralı daire hariç, geriye kalan 14 daireden 540'ar TL olmak üzere toplamda 7.560 TL toplandı.",
+            "total": 7560
+        },
+        "date": {
+            "day": 8,
+            "month": "Nisan",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Kırtasiye",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/050.jpg",
+                "https://paris4.online/images/051.jpg"
+            ],
+            "amount": 2
+        },
+        "date": {
+            "day": 11,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Kapı kulpu",
+            "description": "Kapı hidrolığı takıldıktan sonra dış kapının içeriden açılmasını kolaylaştırmak için yapı marketten metal kulp alınıp kapıya monte edildi.",
+            "photos": [
+                "https://paris4.online/images/046.jpg",
+                "https://paris4.online/images/047.jpg",
+                "https://paris4.online/images/048.jpg",
+                "https://paris4.online/images/049.jpg"
+            ],
+            "amount": 110
+        },
+        "date": {
+            "day": 7,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/042.jpg",
+                "https://paris4.online/images/043.jpg",
+                "https://paris4.online/images/044.jpg",
+                "https://paris4.online/images/045.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 7,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/041.jpg"
+            ],
+            "amount": 595
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 numaralı daire hariç, geriye kalan 14 daireden 590'ar TL olmak üzere toplamda 8.260 TL toplandı.",
+            "total": 8260
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Kapı hidroliği",
+            "description": "Dış kapının hidroliği olmadığı için sürekli açık kalıyordu, bu da iç mekanın fazla kirlenmesine ve çok soğumasına sebep oluyordu. Kapının otomatik kapanması gerektiği için bir hidrolik sistem temin edilerek kapıya monte edildi. Kapı ağır olduğu için güçlü (5 numara) ve kaliteli bir hidrolik tercih edildi.",
+            "photos": [
+                "https://paris4.online/images/037.jpg",
+                "https://paris4.online/images/038.jpg",
+                "https://paris4.online/images/039.jpg",
+                "https://paris4.online/images/040.jpg"
+            ],
+            "amount": 1500
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/036.jpg"
+            ],
+            "amount": 7681
+        },
+        "date": {
+            "day": 20,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/035.jpg"
+            ],
+            "amount": 666
+        },
+        "date": {
+            "day": 6,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 numara hariç geriye kalan 14 daireden daire başına 560 TL toplandı.",
+            "total": 7840
+        },
+        "date": {
+            "day": 6,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/034.jpg"
+            ],
+            "amount": 7614
+        },
+        "date": {
+            "day": 22,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/033.jpg"
+            ],
+            "amount": 770
+        },
+        "date": {
+            "day": 8,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 numara hariç geriye kalan 14 daireden daire başına 560 TL toplandı.",
+            "total": 7840
+        },
+        "date": {
+            "day": 6,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "Bina içerisi çok fazla kirlendiği için temizlik yapıldı.",
+            "photos": [
+                "https://paris4.online/images/029.jpg",
+                "https://paris4.online/images/030.jpg",
+                "https://paris4.online/images/031.jpg",
+                "https://paris4.online/images/032.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 27,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/028.jpg"
+            ],
+            "amount": 6781
+        },
+        "date": {
+            "day": 5,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/027.jpg"
+            ],
+            "amount": 660
+        },
+        "date": {
+            "day": 5,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "9 numaralı daire hariç, 14 daireden 628'er TL olarak toplamda 8.792 TL toplandı.",
+            "total": 8792
+        },
+        "date": {
+            "day": 5,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/026.jpg"
+            ],
+            "amount": 1981
+        },
+        "date": {
+            "day": 12,
+            "month": "Kasım",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/025.jpg"
+            ],
+            "amount": 195
+        },
+        "date": {
+            "day": 31,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz tesisatı",
+            "description": "Merkezi sistemin çalışabilmesi için gerekli tesisat işlemleri.",
+            "photos": [
+                "https://paris4.online/images/023.jpg",
+                "https://paris4.online/images/024.jpg"
+            ],
+            "amount": 950
+        },
+        "date": {
+            "day": 25,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz borcu",
+            "description": "Geçmiş dönemlerden kalan birikmiş doğalgaz borcu, doğalgazın açılabilmesi için ödendi.",
+            "photos": [
+                "https://paris4.online/images/022.jpg"
+            ],
+            "amount": 1512
+        },
+        "date": {
+            "day": 25,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "15 daireden 500'er TL olmak üzere, toplamda 7.500 TL toplandı.",
+            "total": 7500
+        },
+        "date": {
+            "day": 20,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik aboneliği açma bedeli",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/021.jpg"
+            ],
+            "amount": 739
+        },
+        "date": {
+            "day": 10,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "Ortak elektrik aboneliğini üzerine alan 8 numaralı daire sahibinin taşınması nedeniyle kapattığı abonelikten geri yatırılan güvence bedeli.",
+            "total": 501
+        },
+        "date": {
+            "day": 8,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/019.jpg",
+                "https://paris4.online/images/020.jpg"
+            ],
+            "amount": 765
+        },
+        "date": {
+            "day": 20,
+            "month": "Eylül",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Mantar pano",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/014.jpg",
+                "https://paris4.online/images/018.jpg"
+            ],
+            "amount": 175
+        },
+        "date": {
+            "day": 23,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Giriş kat merdiven tadilatı",
+            "description": "Merdivenler temizlenirken, alt kat merdiveninden akan suların, merdivenin altındaki havasız alanın nemlenmesine ve çürümesine yol açmasını engellemek amacıyla alınan plastik parça merdivene yapıştırıldı.",
+            "photos": [
+                "https://paris4.online/images/012.jpg",
+                "https://paris4.online/images/013.jpg"
+            ],
+            "amount": 30
+        },
+        "date": {
+            "day": 21,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/010.jpg",
+                "https://paris4.online/images/011.jpg"
+            ],
+            "amount": 855
+        },
+        "date": {
+            "day": 20,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Ağustos ayı temizlik",
+            "description": "Ağustos ayı boyunca 10 günde bir defa olmak üzere toplamda 3 defa yapılacak olan bina içi merdivenleri ve dış kapı önünün temizliği.",
+            "photos": [],
+            "amount": 1500
+        },
+        "date": {
+            "day": 1,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Ampul değişimi",
+            "description": "Çatı katında oturan kiracıların talebi üzerine çatı katı koridorundaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
+            "photos": [
+                "https://paris4.online/images/006.jpg",
+                "https://paris4.online/images/007.jpg",
+                "https://paris4.online/images/008.jpg",
+                "https://paris4.online/images/009.jpg"
+            ],
+            "amount": 36
+        },
+        "date": {
+            "day": 31,
+            "month": "Temmuz",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Su tesisat bakımı",
+            "description": "Bina içinde tüm katlardan geçen su borularının etrafındaki boşlukları kapatmak için silikon alındı ve hortumların etrafındaki boşluklara uygulandı.",
+            "photos": [
+                "https://paris4.online/images/004.jpg",
+                "https://paris4.online/images/005.jpg"
+            ],
+            "amount": 90
+        },
+        "date": {
+            "day": 28,
+            "month": "Temmuz",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Altyapı bakımı",
+            "description": "Türk Telekom ekipleri tarafından binamızın internet kablolarındaki arızalar giderildikten sonra açıkta bırakılan internet kablolarının hasar görmemesi için 1 torba çimento (60₺x15kg) alındı ve kabloların üzerine uygulandı.",
+            "photos": [
+                "https://paris4.online/images/001.jpg",
+                "https://paris4.online/images/002.jpg",
+                "https://paris4.online/images/003.jpg"
+            ],
+            "amount": 60
+        },
+        "date": {
+            "day": 26,
+            "month": "Temmuz",
+            "year": 2024
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "16 daireden daire başına 250'er TL olmak üzere, toplamda 4.000₺ toplandı.",
+            "total": 4000
+        },
+        "date": {
+            "day": 12,
+            "month": "Temmuz",
+            "year": 2024
+        }
+    }
+]
