@@ -5,7 +5,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/061.jpg"
+                "/apart/images/061.jpg"
             ],
             "amount": 90
         },
@@ -21,7 +21,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/060.jpg"
+                "/apart/images/060.jpg"
             ],
             "amount": 105
         },
@@ -37,7 +37,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/059.jpg"
+                "/apart/images/059.jpg"
             ],
             "amount": 3436
         },
@@ -53,7 +53,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/058.jpg"
+                "/apart/images/058.jpg"
             ],
             "amount": 100
         },
@@ -69,7 +69,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/057.jpg"
+                "/apart/images/057.jpg"
             ],
             "amount": 115
         },
@@ -104,7 +104,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/056.jpg"
+                "/apart/images/056.jpg"
             ],
             "amount": 7490
         },
@@ -120,8 +120,8 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/054.jpg",
-                "https://paris4.online/images/055.jpg"
+                "/apart/images/054.jpg",
+                "/apart/images/055.jpg"
             ],
             "amount": 746
         },
@@ -156,7 +156,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/053.jpg"
+                "/apart/images/053.jpg"
             ],
             "amount": 600
         },
@@ -172,7 +172,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/052.jpg"
+                "/apart/images/052.jpg"
             ],
             "amount": 8027
         },
@@ -207,8 +207,8 @@
             "title": "Kırtasiye",
             "description": "",
             "photos": [
-                "https://paris4.online/images/050.jpg",
-                "https://paris4.online/images/051.jpg"
+                "/apart/images/050.jpg",
+                "/apart/images/051.jpg"
             ],
             "amount": 2
         },
@@ -224,10 +224,10 @@
             "title": "Kapı kulpu",
             "description": "Kapı hidrolığı takıldıktan sonra dış kapının içeriden açılmasını kolaylaştırmak için yapı marketten metal kulp alınıp kapıya monte edildi.",
             "photos": [
-                "https://paris4.online/images/046.jpg",
-                "https://paris4.online/images/047.jpg",
-                "https://paris4.online/images/048.jpg",
-                "https://paris4.online/images/049.jpg"
+                "/apart/images/046.jpg",
+                "/apart/images/047.jpg",
+                "/apart/images/048.jpg",
+                "/apart/images/049.jpg"
             ],
             "amount": 110
         },
@@ -243,10 +243,10 @@
             "title": "Temizlik",
             "description": "",
             "photos": [
-                "https://paris4.online/images/042.jpg",
-                "https://paris4.online/images/043.jpg",
-                "https://paris4.online/images/044.jpg",
-                "https://paris4.online/images/045.jpg"
+                "/apart/images/042.jpg",
+                "/apart/images/043.jpg",
+                "/apart/images/044.jpg",
+                "/apart/images/045.jpg"
             ],
             "amount": 500
         },
@@ -262,7 +262,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/041.jpg"
+                "/apart/images/041.jpg"
             ],
             "amount": 595
         },
@@ -297,10 +297,10 @@
             "title": "Kapı hidroliği",
             "description": "Dış kapının hidroliği olmadığı için sürekli açık kalıyordu, bu da iç mekanın fazla kirlenmesine ve çok soğumasına sebep oluyordu. Kapının otomatik kapanması gerektiği için bir hidrolik sistem temin edilerek kapıya monte edildi. Kapı ağır olduğu için güçlü (5 numara) ve kaliteli bir hidrolik tercih edildi.",
             "photos": [
-                "https://paris4.online/images/037.jpg",
-                "https://paris4.online/images/038.jpg",
-                "https://paris4.online/images/039.jpg",
-                "https://paris4.online/images/040.jpg"
+                "/apart/images/037.jpg",
+                "/apart/images/038.jpg",
+                "/apart/images/039.jpg",
+                "/apart/images/040.jpg"
             ],
             "amount": 1500
         },
@@ -316,7 +316,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/036.jpg"
+                "/apart/images/036.jpg"
             ],
             "amount": 7681
         },
@@ -332,7 +332,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/035.jpg"
+                "/apart/images/035.jpg"
             ],
             "amount": 666
         },
@@ -367,7 +367,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/034.jpg"
+                "/apart/images/034.jpg"
             ],
             "amount": 7614
         },
@@ -383,7 +383,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/033.jpg"
+                "/apart/images/033.jpg"
             ],
             "amount": 770
         },
@@ -418,10 +418,10 @@
             "title": "Temizlik",
             "description": "Bina içerisi çok fazla kirlendiği için temizlik yapıldı.",
             "photos": [
-                "https://paris4.online/images/029.jpg",
-                "https://paris4.online/images/030.jpg",
-                "https://paris4.online/images/031.jpg",
-                "https://paris4.online/images/032.jpg"
+                "/apart/images/029.jpg",
+                "/apart/images/030.jpg",
+                "/apart/images/031.jpg",
+                "/apart/images/032.jpg"
             ],
             "amount": 500
         },
@@ -437,7 +437,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/028.jpg"
+                "/apart/images/028.jpg"
             ],
             "amount": 6781
         },
@@ -453,7 +453,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/027.jpg"
+                "/apart/images/027.jpg"
             ],
             "amount": 660
         },
@@ -488,7 +488,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/026.jpg"
+                "/apart/images/026.jpg"
             ],
             "amount": 1981
         },
@@ -504,7 +504,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/025.jpg"
+                "/apart/images/025.jpg"
             ],
             "amount": 195
         },
@@ -520,8 +520,8 @@
             "title": "Doğalgaz tesisatı",
             "description": "Merkezi sistemin çalışabilmesi için gerekli tesisat işlemleri.",
             "photos": [
-                "https://paris4.online/images/023.jpg",
-                "https://paris4.online/images/024.jpg"
+                "/apart/images/023.jpg",
+                "/apart/images/024.jpg"
             ],
             "amount": 950
         },
@@ -537,7 +537,7 @@
             "title": "Doğalgaz borcu",
             "description": "Geçmiş dönemlerden kalan birikmiş doğalgaz borcu, doğalgazın açılabilmesi için ödendi.",
             "photos": [
-                "https://paris4.online/images/022.jpg"
+                "/apart/images/022.jpg"
             ],
             "amount": 1512
         },
@@ -572,7 +572,7 @@
             "title": "Elektrik aboneliği açma bedeli",
             "description": "",
             "photos": [
-                "https://paris4.online/images/021.jpg"
+                "/apart/images/021.jpg"
             ],
             "amount": 739
         },
@@ -607,8 +607,8 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/019.jpg",
-                "https://paris4.online/images/020.jpg"
+                "/apart/images/019.jpg",
+                "/apart/images/020.jpg"
             ],
             "amount": 765
         },
@@ -624,8 +624,8 @@
             "title": "Mantar pano",
             "description": "",
             "photos": [
-                "https://paris4.online/images/014.jpg",
-                "https://paris4.online/images/018.jpg"
+                "/apart/images/014.jpg",
+                "/apart/images/018.jpg"
             ],
             "amount": 175
         },
@@ -641,8 +641,8 @@
             "title": "Giriş kat merdiven tadilatı",
             "description": "Merdivenler temizlenirken, alt kat merdiveninden akan suların, merdivenin altındaki havasız alanın nemlenmesine ve çürümesine yol açmasını engellemek amacıyla alınan plastik parça merdivene yapıştırıldı.",
             "photos": [
-                "https://paris4.online/images/012.jpg",
-                "https://paris4.online/images/013.jpg"
+                "/apart/images/012.jpg",
+                "/apart/images/013.jpg"
             ],
             "amount": 30
         },
@@ -658,8 +658,8 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/010.jpg",
-                "https://paris4.online/images/011.jpg"
+                "/apart/images/010.jpg",
+                "/apart/images/011.jpg"
             ],
             "amount": 855
         },
@@ -689,10 +689,10 @@
             "title": "Ampul değişimi",
             "description": "Çatı katında oturan kiracıların talebi üzerine çatı katı koridorundaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
             "photos": [
-                "https://paris4.online/images/006.jpg",
-                "https://paris4.online/images/007.jpg",
-                "https://paris4.online/images/008.jpg",
-                "https://paris4.online/images/009.jpg"
+                "/apart/images/006.jpg",
+                "/apart/images/007.jpg",
+                "/apart/images/008.jpg",
+                "/apart/images/009.jpg"
             ],
             "amount": 36
         },
@@ -708,8 +708,8 @@
             "title": "Su tesisat bakımı",
             "description": "Bina içinde tüm katlardan geçen su borularının etrafındaki boşlukları kapatmak için silikon alındı ve hortumların etrafındaki boşluklara uygulandı.",
             "photos": [
-                "https://paris4.online/images/004.jpg",
-                "https://paris4.online/images/005.jpg"
+                "/apart/images/004.jpg",
+                "/apart/images/005.jpg"
             ],
             "amount": 90
         },
@@ -725,9 +725,9 @@
             "title": "Altyapı bakımı",
             "description": "Türk Telekom ekipleri tarafından binamızın internet kablolarındaki arızalar giderildikten sonra açıkta bırakılan internet kablolarının hasar görmemesi için 1 torba çimento (60₺x15kg) alındı ve kabloların üzerine uygulandı.",
             "photos": [
-                "https://paris4.online/images/001.jpg",
-                "https://paris4.online/images/002.jpg",
-                "https://paris4.online/images/003.jpg"
+                "/apart/images/001.jpg",
+                "/apart/images/002.jpg",
+                "/apart/images/003.jpg"
             ],
             "amount": 60
         },
