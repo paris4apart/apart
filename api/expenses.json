@@ -416,7 +416,7 @@
         "type": "-",
         "minus": {
             "title": "Temizlik",
-            "description": "Bina içerisi çok fazla kirlendiği için temizlik yapıldı.",
+            "description": "",
             "photos": [
                 "/apart/images/029.jpg",
                 "/apart/images/030.jpg",
@@ -673,7 +673,7 @@
         "type": "-",
         "minus": {
             "title": "Ağustos ayı temizlik",
-            "description": "Ağustos ayı boyunca 10 günde bir defa olmak üzere toplamda 3 defa yapılacak olan bina içi merdivenleri ve dış kapı önünün temizliği.",
+            "description": "",
             "photos": [],
             "amount": 1500
         },
