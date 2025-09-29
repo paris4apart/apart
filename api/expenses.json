@@ -1,4 +1,54 @@
-[
+[    {
+        "type": "-",
+        "minus": {
+            "title": "Ampul değişimi",
+            "description": "Giriş katındaki patlayan ampul, yenisiyle değiştirilerek takıldı",
+            "photos": [
+                "/apart/images/065.jpg"
+            ],
+            "amount": 45
+        },
+        "date": {
+            "day": 29,
+            "month": "Eylül",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/064.jpg"
+            ],
+            "amount": 105
+        },
+        "date": {
+            "day": 29,
+            "month": "Eylül",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "Daire basi 110 TL",
+            "total": 1
+        },
+        "date": {
+            "day": 29,
+            "month": "Eylül",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
