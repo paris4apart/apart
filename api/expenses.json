@@ -2,7 +2,7 @@
         "type": "-",
         "minus": {
             "title": "Ampul değişimi",
-            "description": "Giriş katındaki patlayan ampul, yenisiyle değiştirilerek takıldı",
+            "description": "Giriş katındaki patlayan ampul, yenisiyle değiştirilerek takıldı.",
             "photos": [
                 "/apart/images/065.jpg"
             ],
@@ -839,3 +839,4 @@
         }
     }
 ]
+
