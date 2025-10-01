@@ -1,4 +1,19 @@
-[    {
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [],
+            "amount": 500
+        },
+        "date": {
+            "day": 1,
+            "month": "Ekim",
+            "year": 2025
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Ampul değişimi",
@@ -40,8 +55,8 @@
                     "amount": 250
                 }
             ],
-            "description": "Daire basi 110 TL",
-            "total": 1
+            "description": "6,7,10,14 ve 15 numaralı dairelerden 110'ar TL olmak üzere toplamda 550 TL toplandı.",
+            "total": 550
         },
         "date": {
             "day": 29,
@@ -839,4 +854,3 @@
         }
     }
 ]
-
