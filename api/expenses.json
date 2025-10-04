@@ -4,7 +4,11 @@
         "minus": {
             "title": "Temizlik",
             "description": "",
-            "photos": [],
+            "photos": [
+                  "/apart/images/066.jpg",
+                  "/apart/images/067.jpg",
+                  "/apart/images/068.jpg"
+            ],
             "amount": 500
         },
         "date": {
@@ -854,3 +858,4 @@
         }
     }
 ]
+
