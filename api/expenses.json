@@ -5,9 +5,9 @@
             "title": "Temizlik",
             "description": "",
             "photos": [
-                  "/apart/images/066.jpg",
-                  "/apart/images/067.jpg",
-                  "/apart/images/068.jpg"
+                "/apart/images/066.jpg",
+                "/apart/images/067.jpg",
+                "/apart/images/068.jpg"
             ],
             "amount": 500
         },
@@ -59,8 +59,8 @@
                     "amount": 250
                 }
             ],
-            "description": "6,7,10,14 ve 15 numaralı dairelerden 110'ar TL olmak üzere toplamda 550 TL toplandı.",
-            "total": 550
+            "description": "4,5,11,12,13 ve 16 numaralı daireler hariç, geriye kalan 9 daireden 110'ar TL olmak üzere toplamda 990 TL toplandı.",
+            "total": 990
         },
         "date": {
             "day": 29,
@@ -858,4 +858,3 @@
         }
     }
 ]
-
