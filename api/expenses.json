@@ -1,4 +1,21 @@
 [
+      {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "/apart/images/069.jpg",
+                "/apart/images/070.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 25,
+            "month": "Ekim",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -858,4 +875,5 @@
         }
     }
 ]
+
 
