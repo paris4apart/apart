@@ -1,5 +1,40 @@
 [
-      {
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/071.jpg"
+            ],
+            "amount": 250
+        },
+        "date": {
+            "day": 5,
+            "month": "Kasım",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "14 ve 15 numaralı dairelerden, her biri 782 TL olmak üzere toplamda 1.564 TL toplandı",
+            "total": 1564
+        },
+        "date": {
+            "day": 4,
+            "month": "Kasım",
+            "year": 2025
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Temizlik",
@@ -875,5 +910,3 @@
         }
     }
 ]
-
-
