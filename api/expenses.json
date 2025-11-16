@@ -41,8 +41,8 @@
                     "amount": 250
                 }
             ],
-            "description": "4 ve 10  numaralı daireler hariç, geriye kalan 13 daireden  her biri 782 TL olmak üzere toplamda 10.166 TL toplandı",
-            "total": 10166
+            "description": "4  numaralı daire hariç, geriye kalan 14 daireden  her biri 782 TL olmak üzere toplamda 10.948 TL toplandı",
+            "total": 10948
         },
         "date": {
             "day": 4,
@@ -926,5 +926,6 @@
         }
     }
 ]
+
 
 
