@@ -1,5 +1,40 @@
 [
-      {
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/073.jpg"
+            ],
+            "amount": 815
+        },
+        "date": {
+            "day": 4,
+            "month": "Aralık",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "2,4,10,12,13 ve 16  numaralı daireler hariç, geriye kalan 9 daireden her biri 874 TL olmak üzere toplamda 7.866 TL toplandı",
+            "total": 7866
+        },
+        "date": {
+            "day": 4,
+            "month": "Aralık",
+            "year": 2025
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Doğalgaz faturası",
@@ -926,6 +961,3 @@
         }
     }
 ]
-
-
-
