@@ -2,6 +2,22 @@
     {
         "type": "-",
         "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/074.jpg"
+            ],
+            "amount": 10792
+        },
+        "date": {
+            "day": 24,
+            "month": "Aralık",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
@@ -961,5 +977,6 @@
         }
     }
 ]
+
 
 
