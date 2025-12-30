@@ -1,4 +1,23 @@
 [
+     {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "/apart/images/075.jpg",
+                "/apart/images/076.jpg",
+                "/apart/images/077.jpg",
+                "/apart/images/078.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 29,
+            "month": "Aralık",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -977,6 +996,7 @@
         }
     }
 ]
+
 
 
 
