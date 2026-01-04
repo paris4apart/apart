@@ -1,5 +1,40 @@
 [
-     {
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/079.jpg"
+            ],
+            "amount": 750
+        },
+        "date": {
+            "day": 5,
+            "month": "Ocak",
+            "year": 2026
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "15 numaralı daireden 1.105 TL olmak üzere toplamda TL toplandı",
+            "total": 1105
+        },
+        "date": {
+            "day": 4,
+            "month": "Ocak",
+            "year": 2026
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Temizlik",
@@ -996,9 +1031,3 @@
         }
     }
 ]
-
-
-
-
-
-
