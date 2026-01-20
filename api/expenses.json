@@ -1,4 +1,20 @@
 [
+     {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/080.jpg"
+            ],
+            "amount": 14326
+        },
+        "date": {
+            "day": 18,
+            "month": "Ocak",
+            "year": 2026
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -25,8 +41,8 @@
                     "amount": 250
                 }
             ],
-            "description": "15 numaralı daireden 1.105 TL olmak üzere toplamda TL toplandı",
-            "total": 1105
+            "description": "6 numaralı daire hariç, geriye kalan 14 daireden her biri 1.105 TL olmak üzere toplamda 15.470 TL toplandı.",
+            "total": 15470
         },
         "date": {
             "day": 4,
@@ -95,7 +111,7 @@
                     "amount": 250
                 }
             ],
-            "description": "16  numaralı daire hariç, geriye kalan 14 daireden her biri 874 TL olmak üzere toplamda 12.236 TL toplandı",
+            "description": "16 numaralı daire hariç, geriye kalan 14 daireden her biri 874 TL olmak üzere toplamda 12.236 TL toplandı",
             "total": 12236
         },
         "date": {
@@ -1031,3 +1047,4 @@
         }
     }
 ]
+
