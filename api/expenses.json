@@ -1,5 +1,40 @@
 [
-     {
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/081.jpg"
+            ],
+            "amount": 845
+        },
+        "date": {
+            "day": 3,
+            "month": "Şubat",
+            "year": 2026
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "16 numara 1.289₺",
+            "total": 1289
+        },
+        "date": {
+            "day": 2,
+            "month": "Şubat",
+            "year": 2026
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Doğalgaz faturası",
@@ -41,8 +76,8 @@
                     "amount": 250
                 }
             ],
-            "description": "6 numaralı daire hariç, geriye kalan 14 daireden her biri 1.105 TL olmak üzere toplamda 15.470 TL toplandı.",
-            "total": 15470
+            "description": "15 daireden her biri 1.105 TL olmak üzere toplamda 16.575 TL toplandı.",
+            "total": 16575
         },
         "date": {
             "day": 4,
@@ -1047,4 +1082,3 @@
         }
     }
 ]
-
