@@ -2,7 +2,7 @@
     {
         "type": "-",
         "minus": {
-            "title": "Elektrik faturası ",
+            "title": "Elektrik faturası",
             "description": "",
             "photos": [
                 "/apart/images/081.jpg"
@@ -25,8 +25,8 @@
                     "amount": 250
                 }
             ],
-            "description": "16 numara 1.289₺",
-            "total": 1289
+            "description": "7,8,9,10,12 ve 16 numaralı daireler hariç, geriye kalan 9 daireden her biri 1.289 TL olmak üzere toplamda 11.601 TL toplandı",
+            "total": 11601
         },
         "date": {
             "day": 2,
@@ -1082,4 +1082,5 @@
         }
     }
 ]
+
 
