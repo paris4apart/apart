@@ -2,7 +2,7 @@
     {
         "type": "-",
         "minus": {
-            "title": "Elektrik faturası",
+            "title": "Elektrik faturası ",
             "description": "",
             "photos": [
                 "/apart/images/081.jpg"
@@ -1082,3 +1082,4 @@
         }
     }
 ]
+
