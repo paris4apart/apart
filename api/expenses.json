@@ -1,4 +1,23 @@
 [
+     {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "/apart/images/082.jpg",
+                "/apart/images/083.jpg",
+                "/apart/images/084.jpg",
+                "/apart/images/085.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 25,
+            "month": "Şubat",
+            "year": 2026
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -1082,5 +1101,6 @@
         }
     }
 ]
+
 
 
