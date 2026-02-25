@@ -1,19 +1,39 @@
 [
-     {
+    {
         "type": "-",
         "minus": {
             "title": "Temizlik",
             "description": "",
             "photos": [
-                "/apart/images/082.jpg",
-                "/apart/images/083.jpg",
-                "/apart/images/084.jpg",
-                "/apart/images/085.jpg"
+                "/apart/images/087.jpg",
+                "/apart/images/088.jpg",
+                "/apart/images/089.jpg",
+                "/apart/images/090.jpg"
             ],
             "amount": 500
         },
         "date": {
             "day": 25,
+            "month": "Şubat",
+            "year": 2026
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Çatı Tadilatı",
+            "description": "Çatıdaki kuşların pisliğinden dolayı dış kapı önünün kirlenmesini engellemek ve yerinden çıkan oluğun geri takılması için; manitou kiralama ücreti, ustanın işçilik ücreti ve malzeme giderleri dahil olmak üzere iki tarafa da gerekli işlemler gerçekleştirildi.",
+            "photos": [
+                "/apart/images/082.jpg",
+                "/apart/images/083.jpg",
+                "/apart/images/084.jpg",
+                "/apart/images/085.jpg",
+                "/apart/images/086.jpg"
+            ],
+            "amount": 16000
+        },
+        "date": {
+            "day": 24,
             "month": "Şubat",
             "year": 2026
         }
@@ -1101,6 +1121,3 @@
         }
     }
 ]
-
-
-
