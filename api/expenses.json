@@ -1,4 +1,20 @@
 [
+     {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/092.jpg"
+            ],
+            "amount": 730
+        },
+        "date": {
+            "day": 8,
+            "month": "Mart",
+            "year": 2026
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -1173,3 +1189,4 @@
         }
     }
 ]
+
