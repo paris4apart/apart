@@ -20,7 +20,9 @@
         "minus": {
             "title": "Doğalgaz faturası",
             "description": "",
-            "photos": [],
+            "photos": [
+                "/apart/images/091.jpg"
+            ],
             "amount": 16996
         },
         "date": {
@@ -1189,4 +1191,5 @@
         }
     }
 ]
+
 
