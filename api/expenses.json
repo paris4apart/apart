@@ -1,4 +1,23 @@
 [
+        {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "/apart/images/093.jpg",
+                "/apart/images/094.jpg",
+                "/apart/images/095.jpg",
+                "/apart/images/096.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 1,
+            "month": "Nisan",
+            "year": 2026
+        }
+    },
      {
         "type": "-",
         "minus": {
