@@ -1,5 +1,40 @@
 [
-        {
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/097.jpg"
+            ],
+            "amount": 720
+        },
+        "date": {
+            "day": 5,
+            "month": "Nisan",
+            "year": 2026
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "1.059 TL",
+            "total": 1
+        },
+        "date": {
+            "day": 3,
+            "month": "Nisan",
+            "year": 2026
+        }
+    },
+    {
         "type": "-",
         "minus": {
             "title": "Temizlik",
@@ -18,7 +53,7 @@
             "year": 2026
         }
     },
-     {
+    {
         "type": "-",
         "minus": {
             "title": "Elektrik faturası",
@@ -1210,6 +1245,3 @@
         }
     }
 ]
-
-
-
