@@ -2,6 +2,22 @@
     {
         "type": "-",
         "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "/apart/images/098.jpg"
+            ],
+            "amount": 14609
+        },
+        "date": {
+            "day": 9999,
+            "month": "Nisan",
+            "year": 2026
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
